@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">напоминание</string>
+    <string name="Titulo">название:</string>
+    <string name="To">кому:</string>
+    <string name="asunto">тема:</string>
+    <string name="mensaje">текст сообщения:</string>
+    <string name="send">Отправить</string>
+    <string name="registro">добавить контакт и телефон</string>
+    <string name="agregarll">сохранить</string>
+    <string name="nombretelefono">Имя и телефон</string>
+    <string name="nombretele">Сделайте долгое нажатие на телефоне, который мы хотим стереть.</string>
+    ///item
+    <string name="txt_web">Написать сайт</string>
+    <string name="BotonIR">Войдите на сайт</string>
+    <string name="BotonCerrar">Cerrar</string>
+    //
+    boton ubicacion
+    <string name="btnnormal">нормальный</string>
+    <string name="btnhibrido">гибрид</string>
+    <string name="btnsatelital">спутник</string>
+    <string name="btnTerreno">земля</string>
+    //
+    <string name="txt_ejemplo">пример: Google.cl</string>
+    <string name="txt_texto">Большое спасибо за выбор этого приложения, это результат многих часов работы, я независимый разработчик.</string>
+    <string name="et_nombre">Как тебя зовут?</string>
+    <string name="boton">входить</string>
+    <string name="Texto22">J.M.Ortiz.</string>
+    <string name="pais">Santiago. Chile</string>
+    <string name="nombreJose">manolo.202008@gmail.com</string>
+    <string name="mail"> Бесплатное и открытое программное обеспечение.</string>
+    <string name="App">информация App</string>
+    <string name="Gmail">Gmail</string>
+    <string name="nombre">добро пожаловать:</string>
+    <string name="boton1">ТУРИСТИЧЕСКИЕ САЙТЫ:</string>
+    <string name="boton2">ВИДЫ КАРТ:</string>
+    <string name="boton3">МОЕ МЕСТО:</string>
+    <string name="boton5">НАЗАД:</string>
+    <string name="boton6">Google Maps:</string>
+
+    <string name="A">Новое событие</string>
+    <string name="B">название:</string>
+    <string name="C">описание:</string>
+    <string name="D">расположение:</string>
+    <string name="E">год:</string>
+    <string name="F">месяц:</string>
+    <string name="G">день:</string>
+    <string name="H">Весь день</string>
+    <string name="I">время:</string>
+    <string name="J">минута:</string>
+    <string name="K">Добавить событие</string>
+
+
+    <string name="title_activity_maps1">карта</string>
+    <string name="title_activity_maps_tipos">карта</string>
+    <string name="title_activity_maps_ubicacion">карта</string>
+    <string name="market_delait_latlng">%1$.2f, %2$.2f</string>
+
+    <string name="Chile">Сантьяго, столица и самый большой город в Чили, расположен в долине, окруженной снежными вершинами Анд и чилийским побережьем.
+    </string>
+    <string name="ucrania">Украина - большая страна в Восточной Европе, она граничит с Россией на востоке, с Беларусью на севере, с Польшей, Словакией и Венгрией на западе.
+    </string>
+    <string name="Dubai">Dubai - на арабском, دبي, Dubayy - один из семи эмиратов, составляющих Объединенные Арабские Эмираты, столицей которых является город с одноименным названием. Он расположен на побережье Персидского залива, в Аравийской пустыне.
+    </string>
+</resources>

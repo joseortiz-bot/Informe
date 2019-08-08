@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Report</string>
+    <string name="Titulo">Título</string>
+    <string name="To">To:</string>
+    <string name="asunto">Subject:</string>
+    <string name="mensaje">Message:</string>
+    <string name="send">SEND:</string>
+    ///item
+    <string name="txt_web">Ingresa el sitio web</string>
+    <string name="BotonIR">Ir al sitio</string>
+    <string name="BotonCerrar">Cerrar</string>
+    //
+    <string name="txt_ejemplo">Ejemplo: Google.cl</string>
+    <string name="txt_texto">Muchas gracias por elegir esta aplicación, este es el resultado de muchas horas de trabajo, soy un desarrollador independiente.</string>
+    <string name="et_nombre">What is your name?</string>
+    <string name="boton">Enter</string>
+    <string name="nombre">You are welcome:</string>
+    <string name="boton1">TOURIST SITES:</string>
+    <string name="Texto22">J.M.Ortiz.</string>
+    <string name="nombreJose">manolo.202008@gmail.com</string>
+    <string name="mail"> Software libre y de código abierto</string>
+    <string name="pais">Santiago. Chile</string>
+    <string name="App">Información App.</string>
+    <string name="Gmail">Gmail.</string>
+    <string name="boton2">TYPES OF MAPS:</string>
+    <string name="boton3">MY LOCATION:</string>
+    <string name="boton5">BEHIND:</string>
+    <string name="boton6">Google Maps:</string>
+    //
+    boton ubicacion
+    <string name="btnnormal">NORMAL</string>
+    <string name="btnhibrido">HÍBRIDO</string>
+    <string name="btnsatelital">SATELITAL</string>
+    <string name="btnTerreno">TERRENO</string>
+    //
+
+    <string name="A">Nuevo Evento</string>
+    <string name="B">Título:</string>
+    <string name="C">Descripción:</string>
+    <string name="D">Localización:</string>
+    <string name="E">Año:</string>
+    <string name="F">Mes:</string>
+    <string name="G">Día:</string>
+    <string name="H">Todo el día</string>
+    <string name="I">Hora:</string>
+    <string name="J">Minuto:</string>
+    <string name="K">Añadir Evento</string>
+
+
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_maps_tipos">Map</string>
+    <string name="title_activity_maps_ubicacion">Map</string>
+    <string name="market_delait_latlng">%1$.2f, %2$.2f</string>
+
+    <string name="Chile">Santiago, the capital and the largest city in Chile, is located in a valley surrounded by snow-capped peaks of the Andes and the Chilean Coast Range.
+    </string>
+    <string name="ucrania">Ukraine is a large country in Eastern Europe, it borders Russia to the east, with Belarus to the north, with Poland, Slovakia and Hungary to the west.
+    </string>
+    <string name="Dubai">Dubai - in Arabic, دبي, Dubayy - is one of the seven emirates that make up the United Arab Emirates, whose capital is the city of the same name. It is located on the coast of the Persian Gulf, in the Arabian desert.
+    </string>
+</resources>

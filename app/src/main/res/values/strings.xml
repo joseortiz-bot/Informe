@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Informe</string>
+    <string name="Titulo">Nombre:</string>
+    <string name="To">Para:</string>
+    <string name="asunto">Tema:</string>
+    <string name="mensaje">Mensaje:</string>
+    <string name="send">ENVIAR:</string>
+    <string name="contacto">Contacto</string>
+    <string name="registro">Agregar contacto y teléfono</string>
+    <string name="agregarll">Agregar</string>
+    <string name="nombretelefono">Nombre y teléfono</string>
+    <string name="nombretele">Haz una pulsación larga en el teléfono que queremos borrar.</string>
+
+
+    ///item
+    <string name="txt_web">Ingresa el sitio web</string>
+    <string name="BotonIR">Ir al sitio</string>
+    <string name="BotonCerrar">Cerrar</string>
+    //
+    <string name="txt_ejemplo">Ejemplo: Google.cl</string>
+    <string name="txt_texto">Muchas gracias por elegir esta aplicación, este es el resultado de muchas horas de trabajo, soy un desarrollador independiente.</string>
+
+    <string name="et_nombre">¿Cómo te llamas?</string>
+    <string name="boton">Ingresar</string>
+    <string name="Texto22">J.M.Ortiz.</string>
+    <string name="nombreJose">manolo.202008@gmail.com</string>
+    <string name="mail"> Software libre y de código abierto.</string>
+    <string name="pais">Santiago. Chile</string>
+    <string name="App">Información App.</string>
+    <string name="Gmail">Gmail.</string>
+    <string name="nombre">Bienvenido:</string>
+    <string name="boton1">SITIOS TURÍSTICOS:</string>
+    <string name="boton2">TIPO DE MAPAS:</string>
+    <string name="boton3">MI UBICACIÓN:</string>
+    <string name="boton5">ATRÁS:</string>
+    <string name="boton6">Google Maps:</string>
+    //
+    boton ubicacion
+    <string name="btnnormal">NORMAL</string>
+    <string name="btnhibrido">HÍBRIDO</string>
+    <string name="btnsatelital">SATELITAL</string>
+    <string name="btnTerreno">TERRENO</string>
+    //
+
+    <string name="A">Nuevo Evento</string>
+    <string name="B">Título:</string>
+    <string name="C">Descripción:</string>
+    <string name="D">Localización:</string>
+    <string name="E">Año:</string>
+    <string name="F">Mes:</string>
+    <string name="G">Día:</string>
+    <string name="H">Todo el día</string>
+    <string name="I">Hora:</string>
+    <string name="J">Minuto:</string>
+    <string name="K">Añadir Evento</string>
+
+
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_maps_tipos">Map</string>
+    <string name="title_activity_maps_ubicacion">Map</string>
+    <string name="market_delait_latlng">%1$.2f, %2$.2f</string>
+
+    <string name="Chile">Santiago, la capital y la ciudad más grande de Chile, se ubica en un valle rodeado de cimas nevadas de los Andes y la Cordillera de la Costa chilena.
+    </string>
+    <string name="ucrania">Ucrania es un extenso país de Europa Oriental, Limita con Rusia hacia el este, con Bielorrusia al norte, con Polonia, Eslovaquia y Hungría hacia el oeste.
+    </string>
+    <string name="Dubai">Dubái—en árabe, دبيّ, Dubayy— es uno de los siete emiratos que conforman los Emiratos Árabes Unidos, cuya capital es la ciudad homónima. Está situado en la costa del golfo Pérsico, en el desierto de Arabia.
+    </string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
